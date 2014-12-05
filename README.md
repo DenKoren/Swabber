@@ -9,4 +9,4 @@ Swabber can list directory (directories) contents and apply filters to this list
 
 Filters can be custom too.
 
-So, for example, you can get all files in the specified directory, sort files by some criteria, drop from list first N files, drop from list some items, pointed by given symlinks and remove all items, kept in list.
+So, for example, you can get all files in the specified directory, sort files by some criteria, drop first N files from list, drop some items, pointed by given symlinks and remove all items, kept in list.
